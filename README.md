@@ -1,24 +1,4 @@
-# nakashima1125
-<span>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=nakashima1125&count_private=true&show_icons=true&include_all_commits=true" />
-</span>
-<span>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakashima1125&&hide=jupyter%20notebook,tex&langs_count=10&layout=compact&card_width=500"/>
-</span>
-<p>
-  
-  ![trophies](https://github-profile-trophy.vercel.app/?username=nakashima1125&column=7&margin-w=8)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nakashima1125)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nakashima1125)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>
-<!--
-**nakashima1125/nakashima1125** is a :ピカピカ: _special_ :ピカピカ: repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- :望遠鏡: I’m currently working on ...
-- :芽: I’m currently learning ...
-- :バニーガールズ: I’m looking to collaborate on ...
-- :考え中: I’m looking for help with ...
-- :入力中アイコン: Ask me about ...
-- :郵便受け: How to reach me: ...
-- :スマイル: Pronouns: ...
-- :いなずま: Fun fact: ...
--->
+[![trophy](https://github-profile-trophy.vercel.app/?username=nakashima1125)](https://github.com/ryo-ma/github-profile-trophy)
