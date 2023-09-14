@@ -1,4 +1,4 @@
-Hi there 👋
+**Hi there 👋**<br>
 My blog : https://cmbnur.com/
 <div align="left"> 
   <img alt="github stats" height="164.5px" src="https://github-readme-stats.vercel.app/api?username=nakashima1125&count_private=true&show_icons=true" />
