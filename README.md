@@ -1,5 +1,4 @@
 **Hi there 👋**<br>
-My blog : https://cmbnur.com/
 <div align="left"> 
   <img alt="github stats" height="164.5px" src="https://github-readme-stats.vercel.app/api?username=cmb-sy&count_private=true&show_icons=true&theme=dark" />
   <img alt="Top Langs" height="164.5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmb-sy&count_private=true&layout=compact&theme=dark&hide=c,asp,objective-c,makefile,c%2B%2B,objective-c%2B%2B,c%23,shaderlab" />
