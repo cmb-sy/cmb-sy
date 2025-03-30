@@ -12,5 +12,5 @@ jobs:
           # Use this username's contribution graph
           user_name: kunst
           # Text on contribution graph
-          text: kunst
+          text: Hello!
       - uses: jasineri/simple-push-action@v1
