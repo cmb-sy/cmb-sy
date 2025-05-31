@@ -1,5 +1,3 @@
-![gitartwork](gitartwork.svg)
-
 # Hi there 👋
 <div align="left"> 
   <img alt="github stats" height="164.5px" src="https://github-readme-stats.vercel.app/api?username=cmb-sy&count_private=true&show_icons=true&theme=dark" />
