@@ -13,4 +13,5 @@ jobs:
           user_name: kunst
           # Text on contribution graph
           text: Hello!
+          commit_obj: '{"message": "GitArtwork", "committer": {"name": "gitartwork", "email": "gitartwork@example.com"}, "animation_sequence_duration": 20, "animation_delay": 200}'
       - uses: jasineri/simple-push-action@v1
