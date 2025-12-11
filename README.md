@@ -1,7 +1,5 @@
-# Hi there 👋
-<div align="left"> 
-  <img alt="github stats" height="164.5px" src="https://github-readme-stats.vercel.app/api?username=cmb-sy&count_private=true&show_icons=true&theme=dark" />
-  <img alt="Top Langs" height="164.5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmb-sy&count_private=true&layout=compact&theme=dark&hide=c,asp,objective-c,makefile,c%2B%2B,objective-c%2B%2B,c%23,shaderlab" />
-</div>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=cmb-sy&column=7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![](profile-summary-card-output/default/0-profile-details.svg)
+![](profile-summary-card-output/default/1-reps-per-language.svg)
+![](profile-summary-card-output/default/2-most-commit-language.svg)
+![](profile-summary-card-output/default/3-stats.svg)
+![](profile-summary-card-output/default/4-productive-time.svg)
